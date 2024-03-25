@@ -1,4 +1,6 @@
-Desarrollando una landing page basandome en un diseño creado en figma 
+Desarrollando una landing page basandome en un diseño creado en figma
+
+
 Developing landing page based on a figma design 
 
 
@@ -18,14 +20,11 @@ Developing landing page based on a figma design
 ![image](https://github.com/nicolas-rosencovich/TecWay-/assets/139424337/8357f24c-7f02-434e-b856-b4d3212da16b)
 
 
-Colors
-Typography
-Register 
-Login
-Landing Page 
+.Colors  .Typography  .Register   .Login  .Landing Page 
 ![image](https://github.com/nicolas-rosencovich/TecWay-/assets/139424337/2dfba4a4-0e1c-4cc3-820b-7057084f46c8)
 
 
 Link para ver desde figma !
+
 Link to see from Figma!
 https://www.figma.com/file/xGCT9okc7mbBt0WBs38WjY/TecWay-proyect(Inspired-by-lidia)?type=design&node-id=0%3A1&mode=design&t=HL2rqLynmbrWp6Q8-1
